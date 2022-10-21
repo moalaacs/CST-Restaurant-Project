@@ -55,15 +55,20 @@ form {
   padding: 50px;
   border-radius: 5px;
   background-color: #c8a97e18;
+  text-align: left;
+}
+form label {
+  color: #444;
 }
 form input {
   display: block;
   padding: 20px;
   margin-bottom: 20px;
+  margin-top: 10px;
   width: 450px;
   border: 1px solid #ced4da;
   border-radius: 5px;
-  color:#333;
+  color:#888;
 }
 form input[type="submit"] {
   width: 150px;
